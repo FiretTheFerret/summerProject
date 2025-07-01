@@ -1,0 +1,106 @@
+h1 {
+text-align: center;
+}
+
+body {
+  background-size : cover;
+  background-image : url(../img/news.png);
+  border-bottom : #52422b 110px solid;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: "Cabin Sketch", sans-serif;
+  color: #cbc3c3;
+  float: left;
+  margin : -20px -30px -11px;
+  padding: 0;
+  
+  
+}
+
+
+h1 {
+  margin-block: 0px;
+  font-family: "alta-california", sans-serif;
+font-weight: 400;
+font-style: normal;
+  font-size: 15em;
+  color: #acba88;
+  transform : translateY(-5%);
+  background-size : repeat;
+
+  text-shadow: 4px 2px 4px #000000;
+  border: #4b5b32 20px dashed;
+background-image : url(../img/buttons.jpg)
+
+
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  transform: translateY(-90%);
+  
+
+}
+
+div {
+  float : right;
+  width: 45%; 
+  margin: 10 auto;
+  padding: 20px;
+  border-radius: 30px;
+  line-height: 1.6;
+  font-size: 16px;
+  margin-inline: 200px;
+  text-align: center;
+  background-color: #846148;
+  border : 4px dashed #4b5b32;
+  border-radius: 2%;
+  transform : translateY(-40%);
+}
+
+
+
+
+a {
+  font-size: 30px;
+  color: #dbdbdb;
+  text-decoration: none;
+  font-weight: bold;  
+  display : inline-block;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 100px;
+  background-image: url(../img/shirt.png);
+  box-shadow : 0 0 20px rgba(0, 0, 0, 0.5);
+  transform : translateY(1045%);
+  background-size : cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height : 70px;
+  width: 70px;
+  text-align: center;
+  margin-inline : 125px;
+
+
+
+
+}
+
+img {
+  width: 30%;
+ 
+  border-radius: 3px;
+ 
+  margin-inline: 100px;
+  position:relative;
+  top: -150px
+  
+}
+
+
+#buttons :hover {
+transform : scale(.25);
+}
