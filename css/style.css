@@ -34,6 +34,7 @@ font-style: normal;
 background-image : url(../img/buttons.jpg)
 
 
+
 }
 
 header {
@@ -64,7 +65,7 @@ div {
 
 
 a {
-  font-size: 30px;
+  font-size: 28px;
   color: #dbdbdb;
   text-decoration: none;
   font-weight: bold;  
@@ -91,16 +92,10 @@ a {
 
 img {
   width: 30%;
- 
   border-radius: 3px;
- 
   margin-inline: 100px;
   position:relative;
   top: -150px
   
 }
 
-
-#buttons :hover {
-transform : scale(.25);
-}

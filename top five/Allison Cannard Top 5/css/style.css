@@ -1,0 +1,102 @@
+ h1 {
+  margin-block: 20px;
+  font-family: "alta-california", sans-serif;
+font-weight: 400;
+font-style: normal;
+  font-size: 15em;
+  text-align: center;
+  color: #fddbad;
+  transform:translateY(-50px);
+
+}
+
+div a {
+  font-size: 28px;
+  color:beige;
+  text-decoration: none;
+  font-weight: bold;  
+  display : inline-block;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 100px;
+  background-image: url(../img/shirt.png);
+  box-shadow : 0 0 20px rgba(0, 0, 0, 0.5);
+  transform : translateY(110%);
+  height : 70px;
+  width: 70px;
+  text-align: center;
+  margin-inline : 125px;
+}
+
+body {
+  background-size : cover;
+  background-image : url(../img/fruit.jpg);
+  border-bottom : #402f21 105px solid;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: "Cabin Sketch", sans-serif;
+  color:beige;
+  margin : 0;
+  padding: 0;
+}
+
+h2 {
+  color:#fddbad;
+}
+
+img{
+  width: 30%;
+  border-radius: 2px;
+  margin-inline: 140px;
+  position:relative;
+  top: -50px
+}
+
+ul {
+  width:440px;
+  padding: 18px;
+  background-color: #402f21;
+  border-color: #fddbad;
+  border:#fddbad dashed;
+  border-radius: 20px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center;
+list-style-position: inside;
+font-size: 2em;
+}
+
+h2 {
+  font-size:xx-large;
+  background-color: #6a4f39;
+  box-sizing: border-box;
+  margin:40px;
+border-radius: 50px 50px;
+border:#fddbad dashed;
+text-align: center;
+
+}
+
+a {
+    margin: 50px;
+    width : 50px;
+    height: 50px;
+    justify-content: center;    
+    align-items: center;
+    font-size: 1.5em;
+    background-size : cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+ 
+
+#container {
+    text-align: center;
+    margin:auto;
+
+}
+
+
