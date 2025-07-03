@@ -1,13 +1,10 @@
 {
 	"folders": [
 		{
-			"path": ".."
-		},
-		{
-			"path": "../../Cannard mid_century_modern_blog"
+			"path": "."
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "mid_century_modern_blog"
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
 	}
 }
